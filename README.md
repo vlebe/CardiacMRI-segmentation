@@ -29,6 +29,6 @@ Les personnes ayant participé au projet sont listé c-dessous:
 - Basile Hogenmuller alias @bashog
 - Joey Skaf alias @jskaf34
 - Emma Mendizabal alias @Emma-IA
-- Vincent Lébé
+- Vincent Lébé @vlebe
 - Hugo Fourel
 - Jonathan Desnoyer
